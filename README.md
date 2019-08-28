@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <img src="https://raw.githubusercontent.com/xuxueli/xxl-job/master/doc/images/xxl-logo.jpg" width="150">
     <h3 align="center">XXL-JOB</h3>
@@ -358,3 +359,7 @@ This product is open source and free, and will continue to provide free communit
 No matter how much the donation amount is enough to express your thought, thank you very much ：）     [To donate](http://www.xuxueli.com/page/donate.html )
 
 无论捐赠金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](http://www.xuxueli.com/page/donate.html )
+=======
+# horizon-job
+定时任务管理控台
+>>>>>>> 1b392d1edc3e766198755d7e62559bfe14b41467
